@@ -1022,3 +1022,7 @@ dkms.conf
 # vscode stuff
 *stdafx.*
 *targetver.*
+
+*.cbp
+*.layout
+

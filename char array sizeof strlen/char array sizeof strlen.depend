@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1462057003 source:d:\future\c++ practice\leetcode\char array sizeof strlen\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+	<cstring>
+

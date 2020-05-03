@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1458693772 source:d:\future\c++ practice\leetcode\5.1.12 populating next right pointers in each node ii\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

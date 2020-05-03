@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1463520130 source:d:\future\c++ practice\leetcode\binary tree upside down\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+
+1468090575 source:c:\users\gaoxy\desktop\gdrive\leetcode\binary tree upside down\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

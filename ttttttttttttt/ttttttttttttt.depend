@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1474166800 source:d:\g drive\leetcode\ttttttttttttt\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+
+1476244902 source:g:\google drive\leetcode\ttttttttttttt\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+	<map>
+

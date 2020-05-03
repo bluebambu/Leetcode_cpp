@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1426452940 source:g:\c++ practice\algoi-iii\sorting\sortings\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1451365342 source:g:\future\c++ practice\leetcode\sorting\sortings\main.cpp
+	<iostream>
+	<stdlib.h>
+

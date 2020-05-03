@@ -1,0 +1,40 @@
+1. 
+
+What is virtual function table. Is it constructed in compiling time or runtime? 
+virtual function table is the basis of virtual function mechanism. It is a table formed during the compilation of a class, and it stores the address of the right version of virtual functions that belongs to this class. Virtual function table is created only when the hierarchy is polymorphic, say having virtual functions in their codes. The compiler will check each class to see if they have their own version of virtual functions. If yes, their own verison of functions' s addresses will be put into the table, and if no, their base class or base of base class's virtual function address will be put in. To use the virtual function, the compiler relyon the veirtual pointers. 
+
+2. 
+
+What is Dynamic cast. What happened when you can not dynamic cast a pointer and reference?
+dynamic cast is a cast method only work on operating the pointers and references of a polymorphic hierarchy of classes. It can cast the pointer and references to the base class to the derived, or the derived to the base, or cross cast between 2 classses on the same level. Compared to the static cast, the advantage of dynamic cast is that it has type-safety chekc, which during casting the operator will make sure the target data type is compatible witht eh objects it will point to . If the type does not match well, then the operator will throw erros. for pointers it return null, for references it returns an bad_cast exceptions. 
+
+3. 
+
+Given an array of integer, find two numbers with summation equal a fixed number A, what if you cannot use extra data structures. 
+1. one loop nested in another, O(n2)
+2. sort it first, then use 2 pointers to squeeze from both ends to the middle. check their summation everytime. If their summation is less, then the smaller end pointer go forward, otherwise, the bigger end pointer go forward.
+
+4. 
+
+
+
+5. 
+
+Class any {}
+
+int main() {
+any(3);\n
+any(4.5);\n
+any(string("hello"));}
+
+how to define class any();
+It seems that you are calling the constructor of the class any but not creating any instantiations. so we can define the ctor for different type of arguments. If the functions for differnt arguments are very similar, we can use template to save the code. If they differ a bit, especially for a certain type of data type, we can use total specification of the template. If they differ quite a lot, we have to write 3 ctor for these 3 data types. One thing needs to be mentioned is that, once you explicitly define the constructor for different type, its better to define the default constructor of your own, so that the code won't behave far awary from your expectation. 
+
+6. 
+
+Map and Hash-map
+map is a structure that is implemented by an advanced balance tree callled red-black tree. The red black tree well balance between the efficiency of searching and of inserting and deleting. It an ordered, associative container in C++. The search compexity is logn. hashmap
+
+7. 	Research
+
+

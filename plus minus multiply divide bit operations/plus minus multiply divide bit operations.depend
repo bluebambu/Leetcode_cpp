@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1460922814 source:d:\future\c++ practice\leetcode\plus minus multiply divide bit operations\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+	<bitset>
+

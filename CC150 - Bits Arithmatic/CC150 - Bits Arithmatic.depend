@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473479850 source:d:\g drive\leetcode\cc150 - bits arithmatic\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

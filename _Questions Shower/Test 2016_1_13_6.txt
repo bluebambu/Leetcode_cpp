@@ -1,0 +1,87 @@
+1. 
+
+virtual function. how to implement(with syntax¡­ very detailed)
+
+
+2. 
+
+Map and Hash-map
+
+
+3. 
+
+Class any {}
+
+int main() {
+any(3);\n
+any(4.5);\n
+any(string("hello"));}
+
+how to define class any();
+
+
+4. 
+
+Array and vector, how vector increases, complexity of adding one element to vector
+
+
+5. 
+
+Map and Hash-map
+
+
+6. 
+
+Given an array of integer, find two numbers with summation equal a fixed number A, what if you cannot use extra data structures. 
+
+
+7. 
+
+What is difference between maclloc() and new()
+
+
+8. 
+
+What is Dynamic cast. What happened when you can not dynamic cast a pointer and reference?
+
+
+9. 
+
+intro himself.
+
+
+10. 
+
+virtual function. how to implement(with syntax¡­ very detailed)
+
+
+11. 
+
+my experience. coding experience
+
+
+12. 
+
+Given an array of integer, find two numbers with summation equal a fixed number A, what if you cannot use extra data structures. 
+
+
+13. 
+
+Map and Hash-map
+
+
+14. 
+
+Array and vector, how vector increases, complexity of adding one element to vector
+
+
+15. 
+
+Given a function foo(int a[], int n), if I have vector<int>b, how can I take information of b as arguments
+
+
+16. 
+
+Array and vector, how vector increases, complexity of adding one element to vector
+
+

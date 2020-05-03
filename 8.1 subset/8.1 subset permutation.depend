@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1451527813 source:g:\future\c++ practice\leetcode\8.1 subset permutation\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+
+1462076657 source:d:\future\c++ practice\leetcode\8.1 subset permutation\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

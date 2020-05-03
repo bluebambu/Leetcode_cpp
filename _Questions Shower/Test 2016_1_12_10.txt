@@ -1,0 +1,114 @@
+1. 
+
+virtual function. how to implement(with syntax¡­ very detailed)
+
+
+2. 
+
+Given a function foo(int a[], int n), if I have vector<int>b, how can I take information of b as arguments
+
+
+3. Research
+
+
+4. 
+
+Template method, how it works? can you separate the implementation and declaration?
+
+
+5. 
+
+Map and Hash-map
+
+
+6. 
+
+How about having template instantiations?
+
+
+7. 
+
+
+
+8. 
+
+What is virtual function table. Is it constructed in compiling time or runtime? 
+
+
+9. 
+
+Dynamics cast and reinterpretation cast, examples, syntax of dynamics cast
+
+
+10. 
+
+Given an array of integer, find two numbers with summation equal a fixed number A, what if you cannot use extra data structures. 
+
+
+11. 
+
+Given an array of integer, find two numbers with summation equal a fixed number A, what if you cannot use extra data structures. 
+
+
+12. 
+
+intro himself.
+
+
+13. 
+
+my experience. coding experience
+
+
+14. 
+
+What is difference between maclloc() and new()
+
+
+15. 
+
+Map and Hash-map
+
+
+16. 
+
+Given a function foo(int a[], int n), if I have vector<int>b, how can I take information of b as arguments
+
+
+17. 
+
+vector. how to maintain. double the size. What is the complexity of insertion? 
+
+
+18. 
+
+vector. how to maintain. double the size. What is the complexity of insertion? 
+
+
+19. 
+
+Dynamics cast and reinterpretation cast, examples, syntax of dynamics cast
+
+
+20. 
+
+Given an array of integer, find two numbers with summation equal a fixed number A, what if you cannot use extra data structures. 
+
+
+21. 
+
+Template method, how it works? can you separate the implementation and declaration?
+
+
+
+22. 
+
+vector. how to maintain. double the size. What is the complexity of insertion? 
+
+
+23. 
+
+intro himself.
+
+
+

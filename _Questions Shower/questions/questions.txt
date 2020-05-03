@@ -1,0 +1,77 @@
+Research@
+
+Implementation of virtual function@
+
+Exception Specification? what does : void fun() throw() {}     mean ?  Exception specification of base class and derived class?? @
+
+Array and vector, how vector increases, complexity of adding one element to vector@
+
+Given a function foo(int a[], int n), if I have vector<int>b, how can I take information of b as arguments@
+
+Dynamics cast and reinterpretation cast, examples, syntax of dynamics cast@
+
+Given an array of integer, find two numbers with summation equal a fixed number A, what if you cannot use extra data structures. @
+
+Map and Hash-map@
+
+What is difference between maclloc() and new()@
+
+Template method, how it works? can you separate the implementation and declaration?@
+
+How about having template instantiations?@
+
+How STL vector works? What is time complexity of push_back()@
+
+What is Dynamic cast. What happened when you can not dynamic cast a pointer and reference?@
+
+Two sum problem, sorted array find the two element sums to a target number@
+
+intro himself.@
+
+my experience. coding experience@
+
+virtual function. how to implement(with syntax¡­ very detailed)@
+
+What is virtual function table. Is it constructed in compiling time or runtime? @
+
+vector. how to maintain. double the size. What is the complexity of insertion? @
+
+Class any {}
+
+int main() {
+any(3);\n
+any(4.5);\n
+any(string("hello"));}
+
+how to define class any();@
+
+How many usages does Keyword \"static\" have? @
+
+What are virtual functions? How is it implemented?"@
+
+What is the syntax of copy constructors and assignment operators overloading?@
+
+Can you describe one program you wrote with C++ and OOD ideology? @
+
+Iterative Pre, In, Post, level order traverse of binary tree?@
+
+Differences between malloc/free and new/delete@
+
+When exceptions are a hiararchy of classes, how to manage the order of catch sentences?  @
+
+Classification of memory in OS. Stack & heap. How do they work? How's the stack in recursion? what is the call stack?  @ 
+
+Singleton @
+
+LRU cache @
+
+virtual inheritance, pure virtual function, abstract class, @
+
+initialization order of class variable members??  of static member variables? @
+
+implementation of smart pointers @
+
+implementation of i++ and ++i @
+
+
+

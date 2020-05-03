@@ -1,0 +1,28 @@
+vector initialization?? @
+
+convert pre array and  inorder array to binary tree@
+
+STL containers functions of insert, erase, find, pop, splice, substr, ..... @
+
+merge 2 sorted array@
+
+merge k linkedlist@
+
+linkedlist sorting methods? @
+
+array sorting methods? @
+
+level order traversal@
+
+sort colors@
+
+Closest common ancester of binary tree@
+
+Music jukebox@
+
+Sorting 10 Gb data@
+
+LRU cache@
+
+multiply without using multiply @
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1450756880 source:g:\future\c++ practice\leetcode\5.1.2 tree inorder traverse\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1460664854 source:d:\future\c++ practice\leetcode\perkin elmer online assessment\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

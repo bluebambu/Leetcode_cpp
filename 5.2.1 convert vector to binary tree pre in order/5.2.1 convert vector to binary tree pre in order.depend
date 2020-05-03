@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1459363230 source:d:\future\c++ practice\leetcode\5.2.1 convert vector to binary tree pre in order\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

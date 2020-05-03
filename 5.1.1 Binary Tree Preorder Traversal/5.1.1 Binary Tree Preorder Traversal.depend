@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1447648208 source:g:\future\c++ practice\leetcode\5.1.1 binary tree preorder traversal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+
+1459725968 source:d:\future\c++ practice\leetcode\5.1.1 binary tree preorder traversal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473646878 source:d:\g drive\leetcode\cc150 - 4.2 minimal bst\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

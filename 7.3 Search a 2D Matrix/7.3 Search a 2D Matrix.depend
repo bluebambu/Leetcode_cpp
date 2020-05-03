@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1451489513 source:g:\future\c++ practice\leetcode\7.3 search a 2d matrix\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

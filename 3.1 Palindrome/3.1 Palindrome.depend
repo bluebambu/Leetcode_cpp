@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1457988397 source:g:\future\c++ practice\leetcode\3.1 palindrome\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+

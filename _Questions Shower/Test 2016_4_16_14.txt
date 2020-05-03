@@ -1,0 +1,5 @@
+1. 
+
+Template method, how it works? can you separate the implementation and declaration? How about having template instantiations?
+
+

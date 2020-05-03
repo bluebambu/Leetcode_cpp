@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1451690729 source:g:\future\c++ practice\leetcode\8.3 permutation i\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

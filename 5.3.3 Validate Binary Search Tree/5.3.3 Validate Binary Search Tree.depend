@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1463870014 source:d:\future\c++ practice\leetcode\5.3.3 validate binary search tree\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+
+1463870014 source:d:\g drive\leetcode\5.3.3 validate binary search tree\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

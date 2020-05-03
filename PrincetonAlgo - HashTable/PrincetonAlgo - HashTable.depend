@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1473208519 source:d:\g drive\leetcode\princetonalgo - hashtable\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+	<string>
+	<sstream>
+

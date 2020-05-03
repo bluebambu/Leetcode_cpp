@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1451610201 source:g:\future\c++ practice\leetcode\8.0 full permutation multi data\main.cpp
+	<string.h>
+	<vector>
+	<iostream>
+
+1460135926 source:d:\future\c++ practice\leetcode\8.0 full permutation multi data\main.cpp
+	<string.h>
+	<vector>
+	<iostream>
+	<algorithm>
+

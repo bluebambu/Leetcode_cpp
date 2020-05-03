@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473116761 source:d:\g drive\leetcode\princetonalgo-bst\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

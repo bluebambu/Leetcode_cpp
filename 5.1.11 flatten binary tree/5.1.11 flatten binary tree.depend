@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1458661876 source:d:\future\c++ practice\leetcode\5.1.11 flatten binary tree\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

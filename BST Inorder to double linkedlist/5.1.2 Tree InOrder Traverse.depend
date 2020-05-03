@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1450756880 source:g:\future\c++ practice\leetcode\5.1.2 tree inorder traverse\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+
+1464489795 source:d:\future\c++ practice\leetcode\bst inorder to double linkedlist\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

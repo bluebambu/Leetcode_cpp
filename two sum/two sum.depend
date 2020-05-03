@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446482763 source:g:\future\c++ practice\leetcode\two sum\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+

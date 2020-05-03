@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1472405162 source:c:\users\gaoxy\desktop\gdrive\leetcode\pricetonalgo-bottomupmergesort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+

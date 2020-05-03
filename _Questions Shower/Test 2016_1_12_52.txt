@@ -1,0 +1,107 @@
+1. 
+
+intro himself.
+I'm a PhD student in Rutgers University. My research is about studying molecular interactions in aqueous environments from both experimental and simulation perspective. During my PhD I wrote a basic molecular dynamic simulation program with Object Oriented Design to simulate atoms interactions. The main components of the program contains 2 parts, one is hte atoms container, and the othe are the gadgets that operator or detect the simulation procedure. One advantage of OO design is that you can choose any components you want to achieve your customized goal. And meanwhile the code reusability is much greater. 
+Besides my work in Rutgers, I also did 2 interns in 2 compnies. In Schlumberger I tried to do a multivariate fitting on the Raman spectrum of crude oil and its components, as a prototype research on their downhole Raman tool. 
+The data I got from the spectrometer is a wavenumber-intensity data. It is a 2000 x 16 matrix, and it final function system is a overdetermined system. To get the approximate least square solution, I need to tranfer the original matrix equation to a normal equation, and construct the normal matrix. Then by calculating the inverse of the normal equation, I can get the approximate solution. The solution was compared with the data retrived from Gas chromatogram and proved that the data is valid. 
+In eastman kodak I used c++ to process some pictures gotten from the electronic microscope. Basically in these pictures, the particles are dark and the background is bright. I applied the classical watershed algorithm to find the edge of each particle and then use the curve to estimate their sizes. 
+So basically these are my researh experiences. Though majoring in physical chemistry, during these coding work I found myself enjoy the coding and I also found that finance and related coding work are all intellecual products based job, they are not like chemistry which heavily rely on the equipment and the raw materials. With simple a computer and one person's intellegence, we can create much value. This is hte most attractive point of developer job for me. 
+
+2. 
+
+What is the syntax of copy constructors and assignment operators overloading?
+copy: complex(complex &other);
+assignment: complex& operator= (complex& other) {return xxxx;}
+
+
+
+8. 
+
+What is virtual function table. Is it constructed in compiling time or runtime? 
+virtual function talbe is a table that record the address of the right version of all virtual functions that belongs to a certain class. In a hierarchy, each class has one of their own virtual function table. The virtual function table is constructed within compilation time, and during run time, when one class is instantiated, i.e. create an object, the object will have a hidden virtual pointer,  pointing to the corresponding virtual function table. When the user use pointers or references pointing to base class to operate the object, then the compiler can find the address of the right virtual function and do the job. 
+
+
+12. 
+
+What is difference between maclloc() and new()
+malloc is a function, included in the stdlib.h file. So yo uhave to refere the header file inorder to use it. Besides that, malloc mean to allocate a free space of some amount of size specified by the user, so the user needs to input the size of the memory by himself. The return pointer type of malloc is void, so you need to cast it into other types. All these manual operations around malloc increase the chances of having errors. 
+
+new is an operator, not a function, so it does not need any header file to use it. The new operator can call the constructor of a class and directly recognize the size of the space and the type of the return pointer. Besides, if there are not enough space then new operator can throw exceptions. And as an operator, new can be overloaded for customized usage. 
+
+So ina  word, new is more flexible and safer than malloc. But in legacy c code, there is only malloc and no new, so people have to deal with it. 
+
+
+13. 
+
+What are virtual functions? How is it implemented?"
+virtual functions are type-dependant member functions in a hierarchy of classes. All the classes can share the same function interface, but they can also have their own version of implementation. The virtual function is based on dynamic binding and virtual function table. The virtual function table is a talbe for each class storing the address of their version of virtual functions. It is xxxx
+
+
+
+15. 
+
+How many usages does Keyword \"static\" have? 
+static variable
+static function
+static variable in a class, can only be initialized outside of the class. can be used only with class name , not the obj name. 
+
+16. 
+
+How STL vector works? What is time complexity of push_back()
+dynamically allocated array. Int he core the array s are the same as built in arrays, ocupying the contiguous memeroy on heap, but there is another level of functions= that provide more contols. 
+
+The time compexity of push back is O1 because it is designed to be O1. Once the capacity of hte vector exceeds the assigned space, the compiler will relocate everything to a bigger place and allocate twice as big space as before to the vector. By doing this , the compiler can make sure htat the armotized time for pushing up is O1. 
+
+
+20. 
+
+Class any {}
+
+int main() {
+any(3);\n
+any(4.5);\n
+any(string("hello"));}
+
+how to define class any();
+
+template<typename T>
+class any
+{ any(T xx):xcvxv {}
+}
+ 
+I think it is directly calling the constructor. 
+
+
+
+25. 
+
+Template method, how it works? can you separate the implementation and declaration?
+template works in this way. In the header file ,, the template is defined. and Durin gthe compilation time, when the compiler go to the line that the template is intantiated, in fact the compiler will follow the template and use the argument to create a new class or a new function at that place, and then use hte new code to instantiate teh template code. So this ask for the compiler to see teh full definition of the template. xxxxxx
+
+26. 
+
+Iterative Pre, In, Post Order traverse of binary tree?
+stack helps, and there are two pointers: cur and the node. cur take care of the left tree, and node care the right. 
+
+
+37. 
+
+What is Dynamic cast. What happened when you can not dynamic cast a pointer and reference?
+Dynamic cast is a cast method that can only work on pointers  and references of a hierarchy. It can cast the base pointer to derived type, or vice versa, or cross cast on the two same level pointers and referernces. One advantage of dynamic cast is that its a type safe cast. If there is something goes wrong then it will give signals, for pointers itbecomes null, for references it throw an exceptions. The dynamic casted base class must have virtual functions, say polymorphism. the result of casting must match with the type of the objects that the pointer or references points to, otherwise the cast will not be successful. The refenrence exception is a bad_cast exception. 
+
+
+
+40. 
+
+virtual function. how to implement(with syntax¡­ very detailed)
+virtual keywords need to be written at the first time of the declaration of the virtual functions. In the following situations, such as definition, or the derivied class version, vritual keywords are not necessary. You can write it on, but no influence to the code. 
+
+
+43. 
+
+Dynamics cast and reinterpretation cast, examples, syntax of dynamics cast
+base* pb = dynamic_cast<base*>(pd);
+reinterpretation cast means that the compiler reinterpret the operand bitwise as if it is a pointer or ref of the other type. It is a low level reinterpretation and throw no warnings, so it can be dangerous to use it. And it is machine dependant so it might fail when you transfer code from one machine to another.  
+
+
+

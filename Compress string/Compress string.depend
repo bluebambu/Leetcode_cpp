@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1468678864 source:c:\users\gaoxy\desktop\gdrive\leetcode\compress string\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<list>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<queue>
+	<stack>
+
